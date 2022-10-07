@@ -1,0 +1,3 @@
+-cloner un repo : git clone
+- les 3 commandes de push : git push, git push <remote><branche>, git push --all <remote>
+
